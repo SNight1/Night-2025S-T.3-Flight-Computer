@@ -10,6 +10,8 @@ This project is a prototype rocket to validate altitude telemetry logging and fl
 * **BMP280**
 * **MPU6050**
 * **NEO-6M**
+![Flight Computer](16756.jpg)
+![ESP32-CAM](16808.jpg)
 
 ## Problems & Solutions
 
